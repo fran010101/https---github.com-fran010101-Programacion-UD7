@@ -66,7 +66,7 @@ public class Main {
     }
     
 
-    // Clase abstracta Coche que tiene los atributos comunes a todos los coches.
+    // Clase abstracta Coche que tiene los atributos comunes a todos los tipos coches.
     static abstract class Coche {
 
         private String matricula;
